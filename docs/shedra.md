@@ -4,7 +4,7 @@
 # འཛིན་གྲྭ་སོ་སོའི་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI002401&origin=https://bdrc-reader.github.io/kagyusungrab/shedra" width="100%" height="600"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0024001&origin=https://bdrc-reader.github.io/kagyusungrab/shedra" width="100%" height="600"></iframe>
 
 <br>
 
